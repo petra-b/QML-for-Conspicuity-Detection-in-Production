@@ -33,18 +33,17 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Petra Brčić
+ - Womanium Program Enrollment ID: WQ24-Ih5o41XojrwQpBX
 
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: n/a
+ - Womanium Program Enrollment ID: n/a
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+The solutions to Tasks 2 and 3 are submitted. Task 1 was about documenting the process of learning Pennylane, but I was familiar with it before so I had nothing to document.
 
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
